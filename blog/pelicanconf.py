@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'ybrs'
 SITENAME = u'Pindown.io'
-SITEURL = ''
+SITEURL = 'https://pindown.io/blog'
 
 TIMEZONE = 'Europe/Paris'
 
